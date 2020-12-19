@@ -1,6 +1,6 @@
 ### Olá visitante! 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ramondb&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ramondb&hide=stars,prs,issues,contribs&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
