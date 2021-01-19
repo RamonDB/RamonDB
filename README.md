@@ -8,9 +8,6 @@ Atualmente foco em tecnologias Front-End, desenvolvendo páginas web para uma ag
 
 Segue aí meu repositório com algumas das coisinhas que ando aprendendo :)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ramondb&hide=stars,prs,issues,contribs&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <!--
 **RamonDB/RamonDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
